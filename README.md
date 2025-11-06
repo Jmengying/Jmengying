@@ -9,25 +9,23 @@
 a **glitchy sprite** bouncing between pixel realms and frontend sorcery.  
 I live for **epic drops**, **waifu moments**, and **RGB-lit code** — but **9-to-5 drudgery? Hard pass.** 😤  
 
-> *"Why grind IRL when Teyvat needs saving?"* — Me, probably.
+> *"Why grind IRL when Solaris needs saving?"* — Me, probably.
 
 ---
 
 ## ⚡ **Skills (Certified Chaos Edition)**  
 🎮 **Gaming Legend:**  
-✨ Genshin Impact — *AR60+ Abyss Cleared*  
-✨ Honkai: Star Rail — *Kafka simp since day 1.*  
-✨ OSU! — *HDHR FC or bust.*  
-✨ Cyberpunk 2077 — *100% Street Cred*  
+✨ Wuthering Wave — *Agor Exploration Aficionado, Echo Decryption Master*  
+✨ Honkai: Star Rail — *Xilian simp since day 1.*  
 ✨ Stardew Valley — *Year 5 Golden Clock*  
-✨ Minecraft — *Redstone Wizard + 1.21 Speedrunner*  
+✨ Minecraft — *Redstone Wizard + Survival Master*  
 
-💻 **Frontend Sorcerer:** React / Vue / Tailwind / Three.js  
-🎨 **UI/UX Alchemist:** Figma + Framer + Anime Motion  
+💻 **Frontend Sorcerer:** React / Vue / Three.js  
+
 
 ---
 
-## 💙 
+## 💙 Favorite Character
 
 <div align="center">
   <img src="https://youki.oss-cn-hangzhou.aliyuncs.com/git/%E4%B9%BE%E3%80%80%E7%B4%97%E5%AF%BF%E5%8F%B6_96842641.jpg"  height="240" title="Miku Stage" />
@@ -38,11 +36,11 @@ I live for **epic drops**, **waifu moments**, and **RGB-lit code** — but **9-t
 
 ---
 
-## 🌐 **Miku Tracker**
+## 🌐 **Favorite Anime**
 <div align="center">
-  <img src="https://img.shields.io/badge/Songs-390%2B-1abc9c?style=for-the-badge&logo=spotify&logoColor=white" />
-  <img src="https://img.shields.io/badge/Genre-Vocaloid-9b59b6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Color-Miku%20Blue-16a085?style=for-the-badge" />
+  <img src="https://c-ssl.dtstatic.com/uploads/blog/202107/31/20210731032255_a2165.thumb.700_0.jpg" width="200" height="240" alt="椎名真昼" style="object-fit: cover; margin: 0 8px;">
+  <img src="https://img-baofun.zhhainiao.com/pcwallpaper_ugc_mobile/static/6296aaf885674845c4fb0d88c95f49fa.jpg" width="160" height="240" alt="友利奈绪" style="object-fit: cover; margin: 0 8px;">
+  <img src="https://upload.wikimedia.org/wikipedia/zh/b/bf/%E5%BD%88%E7%8F%A0%E6%B1%BD%E6%B0%B4%E7%93%B6%E8%A3%A1%E7%9A%84%E5%8D%83%E6%AD%B2%E5%90%8C%E5%AD%B8.jpg" width="200" height="240" alt="千岁同学" style="object-fit: cover; margin: 0 8px;">
 </div>
 
 ---
