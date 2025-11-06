@@ -27,23 +27,13 @@ I live for **epic drops**, **waifu moments**, and **RGB-lit code** — but **9-t
 
 ---
 
-## 💙 Mikuverse Gallery
-> *39 tones of color, code, and chaos.* 🌈  
+## 💙 
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sxzz/miku-assets/miku1.png" width="160" title="Miku Stage" />
-  <img src="https://cdn.jsdelivr.net/gh/sxzz/miku-assets/miku2.png" width="160" title="Miku Neon" />
-  <img src="https://cdn.jsdelivr.net/gh/sxzz/miku-assets/miku3.png" width="160" title="Cyber Miku" />
-  <img src="https://cdn.jsdelivr.net/gh/sxzz/miku-assets/miku4.png" width="160" title="Vocaloid World" />
-</div>
-
----
-
-## 💖 Miku Motion (Live Edition)
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sxzz/miku-assets/miku_dance.gif" width="200" title="Miku Dance" />
-  <img src="https://cdn.jsdelivr.net/gh/sxzz/miku-assets/miku_spin.gif" width="200" title="Miku Spin" />
-  <img src="https://cdn.jsdelivr.net/gh/sxzz/miku-assets/miku_wave.gif" width="200" title="Miku Wave" />
+  <img src="https://youki.oss-cn-hangzhou.aliyuncs.com/git/%E4%B9%BE%E3%80%80%E7%B4%97%E5%AF%BF%E5%8F%B6_96842641.jpg"  height="240" title="Miku Stage" />
+  <img src="https://youki.oss-cn-hangzhou.aliyuncs.com/git/%E9%AD%94%E5%A5%B3%E3%81%AE%E6%97%85%E3%80%85_56364050_p1.jpg"  height="240" title="Miku Neon" />
+  <img src="https://youki.oss-cn-hangzhou.aliyuncs.com/8b9e5f31-c013-4721-a718-01f7c1d595c2.png"  height="240" title="Cyber Miku" />
+  <img src="https://youki.oss-cn-hangzhou.aliyuncs.com/07393960-e0ef-4c2f-b2a8-95524a100982.jpg"  height="240" title="Vocaloid World" />
 </div>
 
 ---
@@ -65,12 +55,6 @@ I live for **epic drops**, **waifu moments**, and **RGB-lit code** — but **9-t
 
 ---
 
-## ✨ **Now Playing (Spotify)**
-<div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31y3e2rmgmfsqf7q4s7pgywsgah4&cover_image=true&theme=novatorem&show_offline=false&background_color=000000&interchange=true&bar_color_cover=true" />
-</div>
-
----
 
 <div align="center">
 
